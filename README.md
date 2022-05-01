@@ -1,3 +1,5 @@
+#This demo newsApp makes of static Data retrieved using mockServiceWorkers, react-redux for state management and reduxToolkit to further enhance easier creation of stores, reducers and state retrieval using selectors passed to components, to simulate a sample news app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
